@@ -33,7 +33,7 @@ Deploying CLV prediction systems in real-world e-commerce platforms presents ope
 
 ---
 
-## 🧪 Future Scope
+## Future Scope
 - Integration of deep learning models (e.g., LSTM, GRU) for sequence-based behavioral data
 - Real-time dashboards to monitor customer value trajectories
 - A/B testing frameworks to validate marketing interventions
